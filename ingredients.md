@@ -1,3 +1,4 @@
+Lets begin!
 onions
 chicken
 ketchup
@@ -6,3 +7,4 @@ mushrooms
 garlic
 thick cream
 salt
+Enjoy my recipe!
